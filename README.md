@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaviAtrock
-- 👀 I’m interested in becoming a programmer.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on JavaScript coding.
+- 👀 I’m interested in becoming a programmer / web developer.
+- 🌱 I’m currently learning JavaScript / HTML5 / CSS.
+- 💞️ I’m looking to collaborate on JavaScript coding, HTML5 coding and CSS.
 - 📫 How to reach me +5561981428779
 
 <!---
